@@ -262,7 +262,7 @@
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2021-07-22 at 1.20.08 PM" translatesAutoresizingMaskIntoConstraints="NO" id="lBN-fp-kSI">
-                                <rect key="frame" x="15" y="125" width="384" height="579"/>
+                                <rect key="frame" x="10" y="125" width="389" height="587"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
